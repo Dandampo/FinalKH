@@ -28,6 +28,17 @@
 		</repository>
 	</repositories>
 	<dependencies>
+	<!-- 마이페이지 차트 -->
+	<dependency>
+    <groupId>org.jfree</groupId>
+    <artifactId>jcommon</artifactId>
+    <version>1.0.23</version>
+	</dependency>
+	<dependency>
+    <groupId>org.jfree</groupId>
+    <artifactId>jfreechart</artifactId>
+    <version>1.0.19</version>
+</dependency>
 		<!-- 이미지 썸네일 -->
 		<!-- https://mvnrepository.com/artifact/org.imgscalr/imgscalr-lib -->
 		<dependency>
